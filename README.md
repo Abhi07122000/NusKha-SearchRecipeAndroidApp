@@ -10,7 +10,7 @@ NusKha is an Android app that allows users to search for recipes and explore ran
 
 ## Prerequisites
 
-- Android device or emulator running Android API level XX or higher.
+- Android device or emulator running Android API.
 - An active internet connection to fetch recipe data from the Spoonacular API.
 
 ## Getting Started
